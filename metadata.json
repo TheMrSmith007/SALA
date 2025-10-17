@@ -1,0 +1,5 @@
+{
+  "name": "Lotto Probability AI",
+  "description": "An AI-powered application that analyzes historical lottery data to predict high-probability winning numbers using the Gemini API.",
+  "requestFramePermissions": []
+}
